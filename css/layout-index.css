@@ -1,0 +1,38 @@
+body{ margin:0px; padding:0px; font:15px "宋体";}
+dl,dt,dd,div,ul,li{padding:0px; margin:0px;}
+a{ font: bold 25px "宋体"; color:#666666;}
+
+#container{ width:980px; margin: 0px auto;}
+.head{ width:980px; height:135px;}
+.head iframe{ width:980px; height:135px;}
+.body{ width:980px; height:650px;  font: bold 25px "宋体"; color:#666666;}
+.foot{ width:980px; height:150px;}
+.foot iframe{ width:980px; height:150px;}
+.b-right{ width:24.4%; height:650px; background:url(../images/bg.gif) no-repeat -745px 0px; float:right;}
+.b-center{ width:55%; height:650px; float:right;}
+.b-left{ width:20.5%; height:650px; background:url(../images/bg.gif) no-repeat; float:right;}
+
+.pic{ width:524px; height:190px; background:url(../images/ad-01.jpg) no-repeat; margin:0px auto;}
+
+.shopping{ width:534px; height:480px; background:url(../images/bg.gif) no-repeat -203px -190px;}
+.shopping-in{ padding-top:50px; padding-left:35px; height:120px;}
+.shopping-in img{ height:65px;  border:#999999 solid 1px;}
+.shopping-in dl{ font:12px "宋体"; float:left; width:160px; text-align:center; height:140px;}
+.shopping dl dt{ text-align:center;}
+.shopping dl dd{ text-align:center; margin-left:-1px; padding-top:0px; color:#000000;}
+
+.divide{ width:200px; height:147px;}
+.divide ul li{ list-style:none; float:left; width:33%; line-height:22px;}
+.font-title{ font:bold 20px "宋体"; color:#FF9933; height:27px;}
+.font-title a{ font:bold 15px "宋体"; color:#FF9933; margin-left:10px; text-decoration:none;}
+.font-title a:hover{ color:#FFCC00;}
+.font-txt{ font:12px "宋体"; color:#000000; margin-left:12px;}
+.null{ height:45px; padding-left:60px;}
+
+.new-goods{ width:210px; height:280px; padding-top:180px; padding-left:6px;}
+.new-goods dl{ height:65px;}
+.new-goods dl dt{float:left; padding-left:10px; width:70px;}
+.new-goods dl dd a{ font:12px/47px "宋体"; text-align:center; text-decoration:none; color:#000000;}
+.new-goods dl dd a:hover{ color:#FF6600;}
+.new-goods dl dt img{ border:#999999 solid 1px;}
+.new-goods dl dd{ vertical-align:middle;}

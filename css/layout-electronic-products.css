@@ -1,0 +1,9 @@
+body{ margin:0px; padding:0px;}
+#container{ width:980px; margin: 0px auto;}
+.head{ width:980px; height:135px;}
+.head iframe{ width:980px; height:135px;}
+.body{ width:980px; height:650px;}
+.body iframe{ width:980px; height:650px;}
+.foot{ width:980px; height:150px;}
+.foot iframe{ width:980px; height:150px;}
+

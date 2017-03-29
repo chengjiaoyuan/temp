@@ -1,0 +1,28 @@
+body{ margin:0px; padding:0px;}
+ul,li{ margin:0px; padding:0px; list-style:none;}
+img{ border:none;}
+
+#container{ width:980px; margin: 0px auto;}
+
+.head{ width:980px; height:135px;}
+.head iframe{ width:980px; height:135px;}
+
+.body{ width:980px; height:430px;}
+
+.f{ background:url(../images/login_bg.gif) 0px -32px no-repeat; text-align:center; height:26px; margin:5px; padding-top:10px; font: bold 15px "ËÎÌו";}
+
+.body-left{ width:390px; float:left;}
+    .pic{ height:270px;}
+    .ul{ height:50px; padding-top:5px;}
+	.ul img{ border: solid #CCCCCC 1px;}
+    .body-left ul li{ float:left; width:65px;}
+    .ss{ height:10px;}
+    .s{ width:160px; float:left;}
+.body-right{ width:590px; float:left; font: 12px "ËÎÌו"; line-height:14px;}
+	.body-right hr{ border-color:#CCCCCC; border-style:dotted; width:350px; text-align:left;}
+	.tab{ width:350px; border:solid #CCCCCC 1px;}
+	.table{ width:55%; border: solid 0px; margin-left:-3px;}
+	.td{ width:50%;}
+
+.foot{ width:980px; height:150px;}
+.foot iframe{ width:980px; height:150px;}
